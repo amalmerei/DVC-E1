@@ -1,6 +1,6 @@
 /*
 Statische Methoden und Verzweigungen
-Amal Merei 
+Amal Merei merei.amal@icloud.com 
 31.10.2025
 */
 
